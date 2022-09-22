@@ -16,9 +16,9 @@ For now, I will be learning and studying and making the most of every opportunit
 Thank you for checking out my work!
 – Sharon
 
-![Ferris wheel photo](https://sharonjjo.files.wordpress.com/2021/12/2017-11-22-10.59.26-1.jpg?w=759&h=&zoom=2){width=50%}
+![Ferris wheel photo](https://sharonjjo.files.wordpress.com/2021/12/2017-11-22-10.59.26-1.jpg?w=759&h=&zoom=2)
 
 #Lehigh CAS BA Undergraduate Enrollment
-This is an infographic created using Canva that shows the number of full-time students in the College of Arts and Sciences Bachelor of Arts program in 2010, 2016, and 2022. This data was found using [Lehigh's Data Center](oirsa.lehigh.edu/degree-programs). I found that there was a dip in enrollment 6 years ago, but now it is at its highest number of enrollment.
+This is an infographic created using Canva that shows the number of full-time students in the College of Arts and Sciences Bachelor of Arts program in the past five years. This data was found using [Lehigh's Data Center](oirsa.lehigh.edu/degree-programs). I found that there was a growing number of student enrollments, and currently, it is at its all time high. This aligns with Lehigh's Path to Prominence initative, where Lehigh is trying to increase it's undergraduate size.
 
 ![infographic practice](https://github.com/shj223/shj223.github.io/blob/main/Infographic1.png?raw=true=100x20)
