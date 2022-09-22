@@ -21,6 +21,4 @@ Thank you for checking out my work!
 #Lehigh CAS BA Undergraduate Enrollment
 This is an infographic created using Canva that shows the number of full-time students in the College of Arts and Sciences Bachelor of Arts program in the past five years. This data was found using [Lehigh's Data Center](oirsa.lehigh.edu/degree-programs). I found that there was a growing number of student enrollments, and currently, it is at its all time high. This aligns with Lehigh's Path to Prominence initative, where Lehigh is trying to increase it's undergraduate size.
 
-![infographic practice](https://github.com/shj223/shj223.github.io/blob/main/Infographic1.png?raw=true)
-
 <img src="https://github.com/shj223/shj223.github.io/blob/main/Infographic1.png?raw=true" alt="image title" width="400"/>
