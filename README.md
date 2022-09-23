@@ -26,4 +26,4 @@ This is an infographic created using Canva that shows the number of full-time st
 # National Student Loan Information
 This is an infographic created using Canva that shows the breakdown of national student loans and the data on the past ten years. This data was found using [The Washington Post](https://www-washingtonpost-com.ezproxy.lib.lehigh.edu/education/2022/05/22/student-loan-borrowers/) and [Education Data](https://educationdata.org/student-loan-debt-statistics#:~:text=Report%20Highlights.,of%20all%20student%20loan%20debt.) and [The New York Times](https://www.nytimes.com/interactive/2022/08/26/your-money/student-loan-forgiveness-debt.html). I chose this topic because of Biden's loan cancellations and from being inspired to research the topic further from the New York Times article. I thought it was interesting and shocking to see how much it has changed from the past ten years.
 
-<img src="https://github.com/shj223/shj223.github.io/blob/main/loaninfographic.png?raw=true" alt="image title" width="400"/>
+<img src="https://github.com/shj223/shj223.github.io/blob/main/loaninfographic.png?raw=true" alt="image title" width="300"/>
