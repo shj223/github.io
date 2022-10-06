@@ -33,3 +33,5 @@ This is an infographic created using Canva that shows the breakdown of national 
 
 # Timeline of Samsung
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jV-xlht5lbt5oKodwgb1duR-3SKTU8MhpEOo9F57UH4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+#Chartbuilder Lehigh Enrollment Chart
