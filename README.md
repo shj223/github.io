@@ -37,4 +37,5 @@ This is an infographic created using Canva that shows the breakdown of national 
 #Chartbuilder Lehigh Enrollment Chart
 ![alt tag] (https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
 
-![title] (https://github.com/shj223/shj223.github.io/blob/main/EnrollmentChart.png)
+![title] (https:/ /name.github.io/title of png.png)
+![My image] (https://github.com/shj223/shj223.github.io/blob/main/EnrollmentChart.png?raw=true)
