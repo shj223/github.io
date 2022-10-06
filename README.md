@@ -34,5 +34,8 @@ This is an infographic created using Canva that shows the breakdown of national 
 # Timeline of Samsung
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jV-xlht5lbt5oKodwgb1duR-3SKTU8MhpEOo9F57UH4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# Chartbuilder Lehigh Enrollment Chart
+## Chartbuilder Lehigh Enrollment Chart
 <img src="https://github.com/shj223/shj223.github.io/blob/main/EnrollmentChart.png?raw=true" alt="image title" width="600"/>
+
+## Chartbuilder Vaccination Rates Chart
+<img src="https://github.com/shj223/shj223.github.io/blob/main/VaxedPeoplChart.png?raw=true" alt="image title" width="600"/>
