@@ -39,3 +39,9 @@ This is an infographic created using Canva that shows the breakdown of national 
 
 ## Chartbuilder Vaccination Rates Chart
 <img src="https://github.com/shj223/shj223.github.io/blob/main/VaxedPeoplChart.png?raw=true" alt="image title" width="600"/>
+
+## Enrollment Percentages Chart
+<img src="https://github.com/shj223/shj223.github.io/blob/main/enrollmentpercents.png?raw=true" alt="image title" width="600"/>
+
+## Life Satisfaction Chart
+<img src="https://github.com/shj223/shj223.github.io/blob/main/lifesatisfaction.png?raw=true" alt="image title" width="600"/>
