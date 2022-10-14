@@ -4,11 +4,7 @@
 Hello! My name is [Sharon Jo](https://sharonjjo.wordpress.com/) and I am a journalism major at Lehigh University.
 This page was created for my data journalism class.
 
-I am a college student & photographer based in Eastern Pennsylvania. While always searching for something new and creative to try, I mainly focus on fashion photography and photojournalism in addition to other digital mediums.
-
-In my writing portfolio, much of the work is made up of journalistic writing. Journalism encompasses everything I love to do and enjoy: stories, creativity, information, and the strength it possesses when they are all brought together. And with photos, I am able to express what words cannot.
-
-I am also in the process of gaining experience in the business world, having worked three internships and jobs related to marketing, multimedia, and communications. I hope to one day work as a creative director.
+I am a college student & photographer in Bethlehem, Pennsylvania. I hope to one day work as a creative director.
 
 I hope to portray my professional and personal growth on my website, as it serves to showcase my hard work and efforts as it also serves as self motivation.
 For now, I will be learning and studying and making the most of every opportunity.
@@ -38,6 +34,7 @@ This is an infographic created using Canva that shows the breakdown of national 
 <img src="https://github.com/shj223/shj223.github.io/blob/main/EnrollmentChart.png?raw=true" alt="image title" width="600"/>
 
 ## Chartbuilder Vaccination Rates Chart
+This chart was created using Chartbuilder and I wanted to look at how the vaccination rates looked like among people of different races. There have been many studies and research on the reasons behind vaccination rate disparities, but I wanted to make a simplified chart to help people see these facts to understand that there is in fact a disparity that should be looked at. The results were very surprising to me, as the number of white people who were fully vaccinated were triple the number of hispanic/latinos, who were the second highest race to be vaccinated. I found my data from https://www.kff.org/coronavirus-covid-19/issue-brief/latest-data-on-covid-19-vaccinations-by-race-ethnicity/ 
 <img src="https://github.com/shj223/shj223.github.io/blob/main/VaxedPeoplChart.png?raw=true" alt="image title" width="600"/>
 
 ## Enrollment Percentages Chart
@@ -46,5 +43,6 @@ This is an infographic created using Canva that shows the breakdown of national 
 ## Life Satisfaction Chart
 <img src="https://github.com/shj223/shj223.github.io/blob/main/lifesatisfaction.png?raw=true" alt="image title" width="600"/>
 
-## Life Satisfaction Chart
+## Voter Turnout by Country Chart
+This chart was created using Chartbuilder and I looked at how voter turnout percentages compared to various countries across the world, especially in other democracies. It was really interesting to see which countries had high rates and which were lower, especially when comparing them to the US. The results really surprised me because the countries that came up in my research were from various areas of the world. I found my data from the following websites: https://www.cfr.org/in-brief/how-does-us-voter-turnout-compare-rest-worlds https://worldpopulationreview.com/country-rankings/voter-turnout-by-country https://triptrivia.com/which-countries-have-the-highest-and-lowest-voter-turnout/X5NDNlIhqgAGwX6d
 <img src="https://github.com/shj223/shj223.github.io/blob/main/voters.png?raw=true" alt="image title" width="600"/>
