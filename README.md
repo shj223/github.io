@@ -51,5 +51,5 @@ This chart was created using Chartbuilder and I looked at how voter turnout perc
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13WF40Hcmm5pO25InAHLuMLI3PN5L0Ts&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Google My Maps - Most Beautiful Starbucks
-For this maps project, I added ten of the most beautiful Starbucks locations from around the world. I found my data on [Klook](https://www.klook.com/en-PH/blog/beautiful-starbucks-around-the-world/) I thought this was an interesting topic because Starbucks is a large multinational company and is unique to its own location, but something that is enjoyed by many across the world.
+For this maps project, I added ten of the most beautiful Starbucks locations from around the world. I found my data on [Klook](https://www.klook.com/en-PH/blog/beautiful-starbucks-around-the-world/). I thought this was an interesting topic because Starbucks is a large multinational company and is unique to its own location, but something that is enjoyed by many across the world.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PNBZUm1LCWcTu_cbe4ljHxUZelO-780&ehbc=2E312F" width="640" height="480"></iframe>
