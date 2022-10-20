@@ -46,3 +46,6 @@ This chart was created using Chartbuilder and I wanted to look at how the vaccin
 ## Voter Turnout by Country Chart
 This chart was created using Chartbuilder and I looked at how voter turnout percentages compared to various countries across the world, especially in other democracies. It was really interesting to see which countries had high rates and which were lower, especially when comparing them to the US. The results really surprised me because the countries that came up in my research were from various areas of the world. I found my data from the following websites: [CFR](https://www.cfr.org/in-brief/how-does-us-voter-turnout-compare-rest-worlds) and [World Population Review](https://worldpopulationreview.com/country-rankings/voter-turnout-by-country) and [TripTrivia](https://triptrivia.com/which-countries-have-the-highest-and-lowest-voter-turnout/X5NDNlIhqgAGwX6d) 
 <img src="https://github.com/shj223/shj223.github.io/blob/main/voters.png?raw=true" alt="image title" width="600"/>
+
+## Google My Maps
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13WF40Hcmm5pO25InAHLuMLI3PN5L0Ts&ehbc=2E312F" width="640" height="480"></iframe>
