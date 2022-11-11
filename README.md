@@ -65,7 +65,7 @@ These two interactive visualization charts show the impact of grade level differ
 
 ## Tableau - Race and Democratic Affiliation Demographics by State
 By Sharon Jo
-Data sources: [Kaggle](9https://www.kaggle.com/datasets/paultimothymooney/percent-voting-for-democratic-party-by-state?resource=download) and [OpenDataSoft](https://documentation-resources.opendatasoft.com/explore/dataset/us-cities-demographics/export/)
+Data sources: [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/percent-voting-for-democratic-party-by-state?resource=download) and [OpenDataSoft](https://documentation-resources.opendatasoft.com/explore/dataset/us-cities-demographics/export/)
 
 This interactive visualization looked at the racial makeup and demographics of each US state and how it compared to Democratic affiliation for the 2020 national election. I chose this topic because I had been reading about the historical relationship between race and political party affiliation in a different class, so I wanted to see visually what the relationship looked like. Analyzing the results of this visualization, I can see how racial makeup and party affiliation align in some ways, and it is interesting to see how it changes with different factors.
 
