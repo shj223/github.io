@@ -15,6 +15,7 @@ Thank you for checking out my work!
 ![Ferris wheel photo](https://sharonjjo.files.wordpress.com/2021/12/2017-11-22-10.59.26-1.jpg?w=759&h=&zoom=2)
 
 ## Pixton Comic Introduction
+This is a comic that I made on the website Pixton, which had a lot of personalization and options available to tell effective stories. I made an introduction of myself to gain familiarity with the site and to see what I had the flexibility to do.
 ![Comic](https://github.com/shj223/shj223.github.io/blob/main/Pixton%20comic%20intro.png?raw=true)
 
 # Lehigh CAS BA Undergraduate Enrollment
