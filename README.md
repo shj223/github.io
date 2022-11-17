@@ -14,6 +14,9 @@ Thank you for checking out my work!
 
 ![Ferris wheel photo](https://sharonjjo.files.wordpress.com/2021/12/2017-11-22-10.59.26-1.jpg?w=759&h=&zoom=2)
 
+## Pixton Comic Introduction
+https://github.com/shj223/shj223.github.io/blob/main/Pixton%20comic%20intro.png?raw=true
+
 # Lehigh CAS BA Undergraduate Enrollment
 This is an infographic created using Canva that shows the number of full-time students in the College of Arts and Sciences Bachelor of Arts program in the past five years. This data was found using [Lehigh's Data Center](oirsa.lehigh.edu/degree-programs). I found that there was a growing number of student enrollments, and currently, it is at its all time high. This aligns with Lehigh's Path to Prominence initative, where Lehigh is trying to increase it's undergraduate size.
 
